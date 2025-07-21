@@ -2,7 +2,7 @@
 In this we will be practising DSA problems.
 DSA 2500 problems 
 <br>
-DAY 1 : 3 questions of Array
+DAY 1 : 5 questions of Array
 <br>
 1. Leetcode :
    i. Two SUM.
