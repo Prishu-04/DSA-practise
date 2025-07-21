@@ -4,6 +4,12 @@ DSA 2500 problems
 <br>
 DAY 1 : 3 questions of Array
 <br>
-1. TWO SUM from Leetcode.
-2. Second largest from GFG.
-3. Reverse array from Hackerank
+1. Leetcode :
+   i. Two SUM.
+   ii. Longest prefix.
+2. GFG :
+   i. Second Largest element of an array.
+3. Hackerank :
+   i. Reverse of an Array
+4. Codechef :
+   i. Search of elemnt in an array.
