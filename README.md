@@ -1,15 +1,30 @@
-# DSA-practise
-In this we will be practising DSA problems.
-DSA 2500 problems 
-<br>
-DAY 1 : 5 questions of Array
-<br>
-1. Leetcode :
-   i. Two SUM.
-   ii. Longest prefix.
-2. GFG :
-   i. Second Largest element of an array.
-3. Hackerank :
-   i. Reverse of an Array
-4. Codechef :
-   i. Search of elemnt in an array.
+# 🚀 DSA Interview Preparation System (C++)
+
+## 🔥 Overview
+This repository contains a structured approach to mastering Data Structures and Algorithms for technical interviews.
+
+It includes categorized problems, optimized solutions, and step-by-step implementations.
+
+## 🧠 Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Dynamic Programming
+- Recursion & Backtracking
+
+## ⚡ Features
+- Clean and optimized C++ solutions
+- Categorized problems for structured learning
+- Interview-focused questions
+- Easy to navigate folder structure
+
+## 🛠️ Tech Stack
+- Language: C++
+- Concepts: DSA, Problem Solving
+
+## 🚀 How to Run
+```bash
+g++ filename.cpp
+./a.out
