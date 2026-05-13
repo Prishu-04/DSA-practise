@@ -1,4 +1,4 @@
-# 🚀 DSA Interview Preparation System (C++)
+# 🚀 DSA Interview Preparation System (C++and Java)
 
 ## 🔥 Overview
 This repository contains a structured approach to mastering Data Structures and Algorithms for technical interviews.
